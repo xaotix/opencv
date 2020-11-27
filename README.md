@@ -1,15 +1,7 @@
 # opencv
-<b>Trabalho de Computação Gráfica</b>
+Utilizando a biblioteca em python
 
 <h2><b>Criar Rede</h2><b>
-
-<b>Requisitos:</b>
-<ul>
-<li>Tenha definido qual será o objeto que você quer detectar;</li>
-  
-<li>Tenha imagens, vídeos do objeto. Quanto maior o número de amostras, melhor será a qualidade de detecção da rede. </li>
-
-<li>Reúna dois tipos de amostras, positivas e negativas. As amostras positivas contêm o objeto marcado e as negativas não possuem o objeto detectado. </li><p>
 
 
 <b>Detecção Manual:</b>
