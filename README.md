@@ -28,7 +28,7 @@ Após finalizado o processo, será gerado um arquivo .xml, o qual você utilizar
 [![Detectar Pessoas](http://img.youtube.com/vi/pNB2UzUjLAE/0.jpg)](https://www.youtube.com/watch?v=pNB2UzUjLAE "Detectar Pessoas")
 
 <h3><b> Detectar Siamês</h3></b>
-<p>Codamos um detector de gatos siameses a partir de um banco de imagens da gata do Daniel, a Mima.
+<p>Codamos um detector de gatos siameses
 <p>O detector localiza o rosto da gata e indica o nome da mesma.
 
 [![Detectar Siamês](http://img.youtube.com/vi/6tms21_Qq7c/0.jpg)](https://www.youtube.com/watch?v=6tms21_Qq7c "Detectar Siamês")
