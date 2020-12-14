@@ -29,6 +29,6 @@ Após finalizado o processo, será gerado um arquivo .xml, o qual você utilizar
 
 <h3><b> Detectar Siamês</h3></b>
 <p>Codamos um detector de gatos siameses
-<p>O detector localiza o rosto da gata e indica o nome da mesma.
+<p>O detector localiza o rosto do animal e indica o nome.
 
 [![Detectar Siamês](http://img.youtube.com/vi/6tms21_Qq7c/0.jpg)](https://www.youtube.com/watch?v=6tms21_Qq7c "Detectar Siamês")
